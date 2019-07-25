@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#2E5894</color>
+    <color name="gris">#8F9779 </color>
+    <color name="texto_boton">#FFF7CE</color>
+
+</resources>

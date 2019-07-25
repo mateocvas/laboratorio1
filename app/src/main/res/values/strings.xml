@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">laboratorio1</string>
+    <string name="tab_text_1">Punto 1</string>
+    <string name="tab_text_2">Punto 2</string>
+    <string name="tab_text_3">Punto 3</string>
+    <string name="tab_text_4">Punto 4</string>
+
+    <string name="punto1_tv_formularios">Formulario</string>
+    <string name="hint_nombre">Nombre…</string>
+    <string name="hint_contrasena">Contraseña…</string>
+    <string name="hint_repite_contrasena">Repite la contraseña…</string>
+    <string name="hint_correo">Correo…</string>
+    <string name="fecha">Fecha…</string>
+    <string name="masculino">Masculino</string>
+    <string name="femenino">Femenino</string>
+    <string name="hobbies">Hobbies</string>
+    <string name="ciudad1">Medellin</string>
+    <string name="ciudad2">Bello</string>
+    <string name="ciudad3">Tokyo</string>
+    <string name="boton_aceptar">Aceptar</string>
+    <string name="ciudad4">caracas</string>
+    <string name="errore_ingresa_ciudad">Debes ingresar ciudad</string>
+    <string name="errore_contrasena">Las contraseñas no coinciden</string>
+    <string name="error_entradas_vacias">Debes llenar todos las entradas</string>
+    <string name="entrada_correcta">Se han ingresado de manera correcta los datos</string>
+    <string name="moneda1">Peso(COP)</string>
+    <string name="moneda2">Dollar(USA)</string>
+    <string name="moneda3">Bolivar(VEF)</string>
+    <string name="errore_moneda">Debes asegurarte de usar una divisa de destino diferente a la de entrada.</string>
+
+    <string name="hobbie1">Bailar.</string>
+    <string name="hobbie2">Cantar.</string>
+    <string name="hobbie3">Volar.</string>
+    <string name="hobbie4">Leer.</string>
+    <string name="conversor_moneda">Conversor de monedas</string>
+    <string name="a">a:</string>
+    <string name="convertir_de">convertir de:</string>
+    <string name="respuesta">Respuesta:</string>
+    <string name="calculadora">Calculadora</string>
+    <string name="_1">1</string>
+    <string name="_2">2</string>
+    <string name="_4">4</string>
+    <string name="_3">3</string>
+    <string name="_5">5</string>
+    <string name="_6">6</string>
+    <string name="_7">7</string>
+    <string name="_8">8</string>
+    <string name="_9">9</string>
+    <string name="_p">.</string>
+    <string name="_0">0</string>
+    <string name="_s">=</string>
+    <string name="ee">-</string>
+    <string name="dds">*</string>
+    <string name="xx">/</string>
+    <string name="plus">+</string>
+    <string name="error_ingresara_b">Debes ingresar dos numeros</string>
+    <string name="error_ingresar_b">Debes ingresar un segundo nmero</string>
+    <string name="multiplicador">Multiplicador</string>
+    <string name="_1_cifra">1 cifra</string>
+    <string name="tolerancia">Tolerancia</string>
+    <string name="lector_de_resistencias">Lector de resistencias</string>
+    <string name="_2_cifra">2 cifra</string>
+
+
+</resources>
